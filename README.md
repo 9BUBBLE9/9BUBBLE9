@@ -1,4 +1,4 @@
-# Привет! Я Kristian 👋
+# Привет! Я Кристиан 👋
 
 ## Специализация
 - **AI/LLM Engineer** | **Data Engineer**
